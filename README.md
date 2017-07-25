@@ -1,4 +1,4 @@
-#centos-nginx-php-demo
+# centos-nginx-php-demo
 
 Example site to be used with centos-nginx-php image
 
